@@ -1,0 +1,87 @@
+html {
+    background-color: rgb(70, 80, 95);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    text-align: left;
+    font-size: 12;
+
+    
+}
+
+p {
+    line-height: 1.4;
+}
+
+div {
+    color: aqua;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+span {
+    font-weight: bold;
+    font-size: 15px;
+    color: darkturquoise;
+}
+
+.pic img {
+    width: 200px;
+    padding-top: 50;
+    cursor: pointer;
+
+}
+
+
+.h {
+    color: aqua;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.free {
+
+    line-height: 1.4;
+}
+
+li {
+    line-height: 1.4;
+    margin-left: 20;
+    margin: 10;
+}
+
+ol {
+    line-height: 1.4;
+}
+
+ul {
+    line-height: 1.4;
+   
+}
+
+button {
+    background-color: lightsalmon;    
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    text-align: center;
+    
+    padding: 5;
+    cursor: pointer
+}
+
+button:hover {
+
+    background-color: orchid;
+}
+
+h1:hover {
+    background-color: black;
+}
+
+h2:hover {
+
+    background-color: gray;
+}
+
